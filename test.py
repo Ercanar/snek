@@ -4,6 +4,8 @@
 pi = 3.1414
 adminaccount = "root"
 
+# Diese Funktion fragt den Nutzer nach seinem Namen
+# und bittet ihn, ehrlich zu sein
 def getusername():
     print("Willkommen zum krassen system")
     print("lügen verboten")

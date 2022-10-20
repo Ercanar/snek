@@ -16,4 +16,3 @@ while True:
         break
 
 print(sum(list))
-print(numpy.prod(list))

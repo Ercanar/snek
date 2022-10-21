@@ -3,3 +3,5 @@ g d: differences (aber nur unstaged)
 g a: untracked/unstaged →  staged
 g c: commit
 g l: commit-übersicht aka log
+
+nya

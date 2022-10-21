@@ -3,3 +3,9 @@ g d: differences (aber nur unstaged)
 g a: untracked/unstaged →  staged
 g c: commit
 g l: commit-übersicht aka log
+
+git checkout <commit>: wechseln in commit
+git checkout <branchname>: wechseln in branch
+git checkout -b <branchname>: erzeugen + wechseln
+git merge <branchname>: merged branch zu aktuell
+git mergetool: mergekonflikte resolven
